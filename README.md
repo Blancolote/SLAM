@@ -5,7 +5,7 @@ The baseline architecture used is Faster R-CNN with a ResNet-50 backbone. The fe
 
 The model was trained using Google Colab Pro with a TPU v2–8. The results indicate some degree of overfitting. However, the proposed Slice-Level Attention Module could serve as a foundation for future improvements—such as using more advanced attention mechanisms or training on higher-performance hardware.
 
-For further details, the full final degree project report is also included in this repository.
+For further details, the full final degree project report is also included in this repository, in the file TFG.pdf.
 
 
 
